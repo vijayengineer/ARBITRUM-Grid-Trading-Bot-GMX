@@ -38,6 +38,8 @@ Follow the steps below
 1. pip3 install -r requirements.txt
 2. Open data.json and fill your main details (Don't share this file anywhere)
 3. Open inputs.json, Read all the descriptions and fill your trading strategy (Once you run the bot for the first time all the descriptions will disappear)
+4. Run the bot with "python3 gmx.py"
+5. Stop with CTRL + C
 ```
 Good luck!
 
