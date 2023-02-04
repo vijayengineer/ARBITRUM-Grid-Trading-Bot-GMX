@@ -30,7 +30,6 @@
 - Open data.json and fill your main details (Don't share this file anywhere)
 - Open inputs.json, Read all the descriptions and fill your trading strategy (Once you run the bot for the first time all the descriptions will disappear)
 
-This project is maintained and supported by a small group of defi gremlins.
 
 ## Installation
 
