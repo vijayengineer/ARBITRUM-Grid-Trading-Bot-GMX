@@ -28,7 +28,6 @@
 ## Requirements
 
 - Python 3.7+ on your PC and set up in your Visual Studio Code
-- 
 
 
 ## Installation
