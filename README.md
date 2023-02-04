@@ -28,8 +28,7 @@
 ## Requirements
 
 - Python 3.7+ on your PC and set up in your Visual Studio Code
-- Open data.json and fill your main details (Don't share this file anywhere)
-- Open inputs.json, Read all the descriptions and fill your trading strategy (Once you run the bot for the first time all the descriptions will disappear)
+- 
 
 
 ## Installation
@@ -39,9 +38,10 @@ Follow the steps below
 ```sh
 0. Download the code and extract the zip then open the folder in Visual Studio Code and open terminal
 1. pip3 install -r requirements.txt 
-2. Read the requirements above
-3. Run the bot with "python3 gmx.py"
-4. Stop with CTRL + C
+2. Open data.json and fill your main details (Don't share this file anywhere)
+3. Open inputs.json, Read all the descriptions and fill your trading strategy (Once you run the bot for the first time all the descriptions will disappear)
+4. Run the bot with "python3 gmx.py"
+5. Stop with CTRL + C
 ```
 Good luck!
 
