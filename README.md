@@ -36,9 +36,10 @@
 Follow the steps below
 
 ```sh
-1. pip3 install -r requirements.txt
-2. Run the bot with "python3 gmx.py"
-3. Stop with CTRL + C
+1. pip3 install -r requirements.txt 
+2. Read the requirements above
+3. Run the bot with "python3 gmx.py"
+4. Stop with CTRL + C
 ```
 Good luck!
 
