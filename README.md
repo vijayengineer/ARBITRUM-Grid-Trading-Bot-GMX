@@ -17,6 +17,7 @@
 - Set up the right grid range for a pair on GMX and run a profitable trading bot
 - Set up your own leverage (125x anyone?)
 - Completely decentralized, from and to your wallet no deposits nor withdrawals to any platforms
+- Set Indicators to true and the bot will buy only if it thinks the market is ready to go long
 - That's it, what else do you want lmao
 
 ## Supported Exchanges
