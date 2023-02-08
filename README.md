@@ -2,6 +2,7 @@
   <img src="auros.png" width="400"/>
   <h2>GMX Grid Trading Bot (SPOT/FUTURES)</h2>
   <p>Actually profitable(?) leverage/spot trading bot using python for GMX. I tested it for 4 months and made about 8-11% a month with 7x leverage, DYOR AND RISK MANAGE YOUR MONEY PROPERLY</p>
+  <p>Thank you for all the stars! But please create issues with bugs so I can fix and improve the bot :)</p>
   
 [![Go](https://github.com/c9s/bbgo/actions/workflows/go.yml/badge.svg?branch=main)](https://github.com/c9s/bbgo/actions/workflows/go.yml)
 [![GoDoc](https://godoc.org/github.com/c9s/bbgo?status.svg)](https://pkg.go.dev/github.com/c9s/bbgo)
