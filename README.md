@@ -1,6 +1,7 @@
 <div align="center">
   <img src="auros.png" width="400"/>
   <h2>GMX Grid Trading Bot (SPOT/FUTURES)</h2>
+  <h2>WORKING ON A GUI SO IF YOU DONT KNOW HOW TO SET UP WAIT FOR UPDATE</h2>
   <p>Actually profitable(?) leverage/spot trading bot using python for GMX. I tested it for 4 months and made about 8-11% a month with 7x leverage, DYOR AND RISK MANAGE YOUR MONEY PROPERLY</p>
   <p>Thank you for all the stars! But please create issues with bugs so I can fix and improve the bot :)</p>
   
