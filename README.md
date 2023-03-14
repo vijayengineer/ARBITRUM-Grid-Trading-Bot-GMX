@@ -11,10 +11,13 @@
 [![Go Report Card](https://goreportcard.com/badge/github.com/c9s/bbgo)](https://goreportcard.com/report/github.com/c9s/bbgo)
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
  <a href="https://circleci.com/gh/badges/shields/tree/master">
-        <img src="https://img.shields.io/circleci/project/github/badges/shields/master" alt="build status"></a>
+ <img src="https://img.shields.io/circleci/project/github/badges/shields/master" alt="build status"></a>
   
 </div>
-![](https://github.com/Yapote/ARBITRUM-Grid-Trading-Bot-GMX/blob/main/grid-trading-bot01.gif)
+
+
+![Alt Text](https://github.com/Yapote/ARBITRUM-Grid-Trading-Bot-GMX/blob/main/grid-trading-bot01.gif)
+
 ## What You Can Do With This Bot?
 
 - Completely automated Grid trading set up (You set it once for a pair and then improve settings if you want to make more money)
