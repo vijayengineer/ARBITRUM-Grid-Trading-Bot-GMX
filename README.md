@@ -43,7 +43,7 @@ Follow the steps below
 ```sh
 0. Download the code and extract the zip then open the folder in Visual Studio Code
 1. pip3 install -r requirements.txt 
-2. Run the bot with "python3 gmx.py"
+2. Run the bot with "python3 gmx.pyw"
 ```
 Good luck!
 
