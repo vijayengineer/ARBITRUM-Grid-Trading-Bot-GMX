@@ -1,8 +1,8 @@
 <div align="center">
   <img src="zx.png" width="400"/>
   <h2>GMX Grid Trading Bot (FUTURES)</h2>
-  <h2>Free Version</h2>
-  <p>Actually profitable(?) leverage trading bot using GMX API so it's COMPLETELY DECENTRALIZED trading without any form of deposit, withdraw nor KYC. I tested it for 4 months and made about 6-8% a month with 11x leverage, DYOR AND RISK MANAGE YOUR MONEY PROPERLY</p>
+  <h2>Free Version (ARBITRUM ONLY)</h2>
+  <p>Actually profitable leverage trading bot using GMX API so it's completely decentralized trading without any form of deposit, withdraw nor KYC. I tested it for 4 months and made about 6-8% a month with 11x leverage, DYOR AND RISK MANAGE YOUR MONEY PROPERLY</p>
   
   <p>Thank you for all the stars! But please create issues with bugs so I can fix and improve the bot :)</p>
   
