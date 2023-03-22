@@ -1,0 +1,16 @@
+{
+  "RATE_COVER": 1.0,
+  "INTERVAL_OF_CHECKS": 0.2,
+  "TOTAL_ORDERS": 1,
+  "FIRST_ORDER_INDENT": -1.0,
+  "PROFIT_PERCENT": -1.0,
+  "AMOUNT_IN_COLLATERAL": 10.0,
+  "LEVERAGE": 1,
+  "USE_INDICATORS": false,
+  "COLLATERAL_TOKEN": "USDC",
+  "POSITION_TOKEN": "WETH",
+  "con": 1,
+  "sl": 1.0,
+  "uph": "f0",
+  "current_order_number": 0
+}
