@@ -33,7 +33,7 @@ Watch this video on how grid trading works:
 
 - GMX
 
-<img src="gmx.png" width="500"/>
+<img src="gmx.png" width="800"/>
 
 ## Requirements
 
