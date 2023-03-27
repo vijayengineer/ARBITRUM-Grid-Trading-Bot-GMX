@@ -33,6 +33,8 @@ Watch this video on how grid trading works:
 
 - GMX
 
+<img src="gmx.png" width="500"/>
+
 ## Requirements
 
 - Python 3.7+ on your PC and set up in your Visual Studio Code
